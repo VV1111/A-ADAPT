@@ -1,0 +1,1 @@
+from .aadapt import AAdapt
